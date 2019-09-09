@@ -32,7 +32,10 @@
                  Paul Dorfman                                                                                            
                  sashole@bellsouth.net                                                                                   
                                                                                                                          
-                                                                                                                         
+    github                                                                                              
+    https://tinyurl.com/y6yqrqhu                                                                        
+    https://github.com/rogerjdeangelis/utl-select-the-unique-largest-value-that-has-a-frequency-of-one  
+                                                                                                                     
     https://stackoverflow.com/questions/57790807/how-to-find-a-unique-maximum                                            
                                                                                                                          
     Jason Aizkalns profile                                                                                               
